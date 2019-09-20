@@ -30,3 +30,6 @@ Usually a really time online pairing coding.
 
 Onsite could be final round, to meet the team and have another might be more challenged coding interview.
 Including behavior testing (feel about how a person behave).
+
+> While behavior/culture fit is varied depends on the company's mission/goal. 
+This repo will focus on technicial questions.
