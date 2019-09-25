@@ -1,6 +1,11 @@
 # Interview Review
 
-I'm trying to review the questions that I was facing during the interview. In general, interview consists of:
+I'm trying to review the questions that I was facing during the interview. The answers for the questions
+may or may not be the best solution, please leave the message or PR to improve them.
+
+## General
+
+In general, the interview consists of:
 
 0. Resume/Sourcing
 1. Phone Screen
